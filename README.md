@@ -10,7 +10,6 @@ Sou estudante e amante das tecnologias Web de Belém-PA, usando **HTML**, **CSS*
 
 > Todas as vossas coisas sejam feitas com amor. | I Coríntios 16:14
 
-
 ---
 ⭐️ [Linkedin](https://www.linkedin.com/in/ruan-valente)
 ⭐️ [GitHub](https://github.com/ruanvalente)
