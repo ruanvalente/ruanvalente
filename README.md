@@ -2,7 +2,7 @@
 
 Sou estudante e amante das tecnologias Web de Belém-PA, usando **HTML**, **CSS** e muito **JavaScript** :smile_cat: 💻
 
-- 🌱 Eu estou atualmente estudando: JavaScript, Node, React e React Native
+- 🌱 Eu estou atualmente estudando: JavaScript, Node, React, Vue (💚) e React Native
 - 💬 Pergunte-me sobre: Tecnologias, Livros, Animes
 - 😄 Coisas legais: Dark e Bleach
 -  ⚡ Linguagens: JavaScript
