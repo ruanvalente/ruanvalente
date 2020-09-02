@@ -5,7 +5,6 @@ Sou estudante e amante das tecnologias Web de Belém-PA, usando **HTML**, **CSS*
 - 🌱 Eu estou atualmente estudando: JavaScript, Node, React, Vue (💚) e React Native
 - 💬 Pergunte-me sobre: Tecnologias, Livros, Animes
 - 😄 Coisas legais: Dark e Bleach
--  ⚡ Linguagens: JavaScript
 
 
 > Todas as vossas coisas sejam feitas com amor. | I Coríntios 16:14
