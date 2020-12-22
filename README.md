@@ -2,8 +2,8 @@
 
 Sou estudante e amante das tecnologias Web de Belém-PA, usando **HTML**, **CSS** e muito **JavaScript** :smile_cat: 💻
 
-- 🌱 Eu estou atualmente estudando: JavaScript, Node, React, Vue (💚) e React Native
-- 👷‍♂️ Trabalhando com: Node, Adonis, Vue e Quasar 💚 😁
+- 🌱 Eu estou atualmente estudando: JavaScript, Node, React, Vue (💚) e Angular
+- 👷‍♂️ Trabalhando com: Node, Adonis, Vue, Quasar e agora Angular 😻 😁
 - 💬 Pergunte-me sobre: Tecnologias, Livros e Animes
 - 🥰 Coisas legais: House e Bleach
 
