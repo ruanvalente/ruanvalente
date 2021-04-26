@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Consórcio SIGTRANS**
 
-- 🌱 I’m currently learning **Angular, TypeScript, Angular Material and Jasmine**
+- 🌱 I’m currently learning **Angular, TypeScript, Angular Material, Ionic and Jasmine**
 
 - 💬 Ask me about **Vue, React, HQ's and Animes**
 
