@@ -22,3 +22,52 @@
 
 > Todas as vossas coisas sejam feitas com amor. | I Coríntios 16:14
 
+# Recruiters, here are some challenges in which they have been passed on.
+
+## Challenges 💪
+
+- [yube-challenge-frontend](https://github.com/ruanvalente/yube-challenge-frontend)
+    - Test repository for FrontEnd developer vacancy at Yube.
+
+- [challenge-link-solucoes](https://github.com/ruanvalente/yube-challenge-frontend)
+    - Test repository for FrontEnd developer vacancy at Link Soluções.
+
+
+- [challenge-link-solucoes-backend](challenge-link-solucoes-backend)
+    - Test repository for FrontEnd developer vacancy at Link Soluções.
+
+- [brainn-challenge](https://github.com/ruanvalente/brainn-challenge)
+    - Test repository for FrontEnd developer vacancy at brainn.co.
+
+
+# Recruiters, here are some projects i'm working on right now.
+
+## Study projects 💆
+
+- [PlayFlow](https://github.com/ruanvalente/payflow)
+    - Application of slips organization using flutter based on the course taught at Rocketseat during NLW6.
+
+- [Github Explore React](https://github.com/ruanvalente/github-explore)
+    - Github repository explorer using React.
+
+- [Github Explore Vue](https://github.com/ruanvalente/github-explore-vue)
+    - Github repository explorer using Vue.
+
+- [Github Explore Angular](https://github.com/ruanvalente/github-explore-angular)
+    - Github repository explorer using Angular.
+- [Node Student](https://github.com/ruanvalente/node-student/tree/master/node-api)
+    - A simple CRUD api from users using Node.
+- [Adonis Example](https://github.com/ruanvalente/adonis-example)
+    - Simple api of a blog using adonis.
+
+- [to.do](https://github.com/ruanvalente/to.do)
+    - Simple app from every list using React.
+
+- [Find Your Sound vue 3](https://github.com/ruanvalente/find-your-sound-vue3)
+    - App that searches for songs and playlist's directly on Spotify.
+
+
+
+<p align="center">
+Made with ❤️ by Ruan Valente 👋🏽
+</p>
