@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CELK SISTEMAS**
 
-- 🌱 I’m currently learning **Angular, TypeScript, Angular Material, Ionic and Flutter**
+- 🌱 I’m currently learning **React, Angular, TypeScript, Angular Material, Ionic and Flutter**
 
 - 💬 Ask me about **Vue, React, HQ's and Animes**
 
