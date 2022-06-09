@@ -3,31 +3,27 @@
 
 <p align="center"> <a href="https://twitter.com/ruantux" target="blank"><img src="https://img.shields.io/twitter/follow/ruantux?logo=twitter&style=for-the-badge" alt="ruantux profile" /></a> </p>
 
-- 🔭 I’m currently working on **CELK SISTEMAS**
+# 💫About Me :
+🔭 I’m currently working on CELK SISTEMAS
 
-- 🌱 I’m currently learning **React, Angular, TypeScript, Angular Material, Ionic and Flutter**
+🌱 I’m currently learning React, Angular, TypeScript, Angular Material, Ionic and Flutter
 
-- 💬 Ask me about **Vue, React, HQ's and Animes**
+💬 Ask me about Vue, React, HQ’s and Animes
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="color: white" style="filter: invert(80%) sepia(0%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);">
-<a href="https://www.linkedin.com/in/ruan-valente/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruanvlaente" height="30" width="40" /></a>
 
-</p>
-<h3 align="center">Languages and Tools:</h3>
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruantux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan.valente) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ruantux) 
 
-<div align="center">
-   
-| <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> | <img src="https://img.shields.io/badge/Vue.js-F2F4F9?style=for-the-badge&logo=vue.js"> | <img src="https://img.shields.io/badge/React-F2F4F9?style=for-the-badge&logo=react"> |
-|  <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white"> | <img src="https://img.shields.io/badge/Node.js-F2F4F9?style=for-the-badge&logo=node.js">| <img src="https://img.shields.io/badge/Material-563D7C?style=for-the-badge&logo=material-ui"> | 
-| <img src="https://img.shields.io/badge/Sass-563D7C?style=for-the-badge&logo=sass">
- </div>
+# 💻Tech Stack
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ruanvalente&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ruanvalente&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanvalente&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruanvalente&show_icons=true&locale=en&layout=compact" alt="ruanvalente" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=ruanvalente&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruanvalente&show_icons=true&locale=en" alt="ruanvalente" /></p>
 
 > Todas as vossas coisas sejam feitas com amor. | I Coríntios 16:14
 
