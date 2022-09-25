@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/ruantux" target="blank"><img src="https://img.shields.io/twitter/follow/ruantux?logo=twitter&style=for-the-badge" alt="ruantux profile" /></a> </p>
 
 # 💫About Me :
-🔭 I’m currently working on CELK SISTEMAS
+🔭 I’m currently working on [Compass UOL](https://compass.uol/en/home/)
 
 🌱 I’m currently learning React, Angular, TypeScript, Angular Material, Ionic and Flutter
 
