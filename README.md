@@ -11,7 +11,6 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-]
 <br/>
 
 ## My Skill Set
