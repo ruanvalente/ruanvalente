@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ruanvalente.png" align="center" height="200" width="200" />
+<img style="border-radius: 50%;" src="https://github.com/ruanvalente.png" align="center" height="200" width="200" />
 </div>  
 
 
