@@ -1,8 +1,3 @@
-<div align="center">
-<img style="border-radius: 50%;" src="https://github.com/ruanvalente.png" align="center" height="200" width="200" />
-</div>  
-
-
 ### <div align="center">Hi 👋, I'm Ruan Valente 🐱</div>
 
 - 🔭 I’m currently working on [Compass UOL](https://compass.uol/en/home/)
