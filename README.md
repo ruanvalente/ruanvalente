@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋, I'm Ruan Valente 🐱</div>
+# <div align="center">Hi 👋, I'm Ruan Valente 🐱</div>
 
 - 🔭 I’m currently working on [Compass UOL](https://compass.uol/en/home/)
 
