@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Compass UOL](https://compass.uol/en/home/)
 
-- 🌱 I’m currently learning React, Angular, TypeScript, Vue and Node
+- 🌱 I’m currently learning React, Angular, TypeScript, Vue, Node, Ruby and Rails ❤️
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
