@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React, Angular, TypeScript, Vue, Node, Ruby and Rails ❤️
 
-- ❓ Ask me about anything related to MERN stack Rails and related technologies
+- ❓ Ask me about anything related to MERN stack, Rails and related technologies
 
 <br/>
 
