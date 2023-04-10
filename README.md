@@ -143,6 +143,9 @@
 
 - [Find Your Sound vue 3](https://github.com/ruanvalente/find-your-sound-vue3)
   - App that searches for songs and playlist's directly on Spotify.
+- [Challenge Backend 5 - Aluraflix](https://github.com/ruanvalente/challenge_backend_5_alura_api)
+  
+  - Alura backend challenge 05 repository.
 
 <p align="center">
 Made with ❤️ by Ruan Valente 👋🏽
