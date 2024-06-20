@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ruan Valente
 
- Frontend Developer | Software Engineering Student | Belém-PA, Brazil
+ Frontend Developer | Software Engineering | Belém-PA, Brazil
 
 Welcome to my profile! I am passionate about frontend development and am on an ongoing journey to push the boundaries of technology. My expertise lies in creating amazing, interactive interfaces, ensuring an exceptional user experience through careful design and precise development.
 
