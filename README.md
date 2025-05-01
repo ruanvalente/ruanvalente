@@ -67,5 +67,6 @@ Alguns dos meus projetos de estudo:
 ---
 
 <p align="center">
-Made with ❤️ by <b>Ruan Valente</b> 👋🏽
+  Made with ❤️ by <a href="https://ruanvalente-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Ruan Valente</b></a> 👋🏽
 </p>
+
