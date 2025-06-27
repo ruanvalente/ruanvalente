@@ -22,6 +22,10 @@ Atualmente, atuo como Frontend Developer na [Compass UOL](https://compass.uol/en
 
 ---
 
+[![metrics](/github-metrics.svg)](https://github.com/ruanvalente?tab=repositories)
+
+---
+
 ## 🛠️ Main Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
