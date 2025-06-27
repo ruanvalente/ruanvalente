@@ -20,9 +20,6 @@ Atualmente, atuo como Frontend Developer na [Compass UOL](https://compass.uol/en
 💻 **Atualmente aprendendo:** Node.js, Ruby e Rails ❤️  
 💬 **Me pergunte sobre:** MERN Stack, Ruby on Rails e tecnologias relacionadas.
 
----
-
-[![metrics](/github-metrics.svg)](https://github.com/ruanvalente?tab=repositories)
 
 ---
 
