@@ -60,8 +60,6 @@ Alguns dos meus projetos de estudo:
 
 ---
 
-## ✨ Quote
-
 > "Todas as vossas coisas sejam feitas com amor."  
 > *I Coríntios 16:14*
 
