@@ -58,7 +58,7 @@ Alguns dos meus projetos de estudo:
 - [Book Challenge - Nest.js](https://github.com/ruanvalente/book-challenge-nest) - API web de um sistema para livraria com TDD.
 - [Ledger CLI](https://github.com/ruanvalente/ledger_api_cli) - Ledger CLI é uma aplicação simples de gestão financeira via linha de comando (CLI) utilizando Ruby e SQLite. O projeto faz parte de um desafio fornecido pela comunidade [DevsNorte](https://github.com/devsnorte/desafios).
 - [ContaAI](https://github.com/ruanvalente/contaai) - Conta.AI é uma aplicação web moderna para gerenciamento de biblioteca digital, desenvolvida que permite aos usuários descobrir, organizar e gerenciar seus livros favoritos.
-
+- [Image Compressor](https://github.com/ruanvalente/image-compressor) - Uma ferramenta para comprimir imagens mantendo a melhor qualidade. Suporta JPEG, PNG, WebP e AVIF.
 ---
 
 > "Todas as vossas coisas sejam feitas com amor."  
